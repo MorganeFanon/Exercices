@@ -1,5 +1,10 @@
+
 # How does the internet work
 
+ Anne's contribution :
+
+ The internet is a wonderful thing but it is not located on a cloud. In reality, it is burried on the ground and it is a big wire composed of optic fiber, copper, cables. A bunch of servers are connected to this wire. 
+this Theory file has been reviewed by Anne Jungers
 ## [Summary of the following video ](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
 Internet is not a bubble cloud, it is a wire (buried in the ground). it makes it possible for two different computers to communicate together. Actually these two computers are called servers and each of them has its own IP-adress, which is their geographical position. The IP-adress is a serie of numbers like 678.205.46.248 but they are also called by a name like Securitycatalyst.com for example. 
