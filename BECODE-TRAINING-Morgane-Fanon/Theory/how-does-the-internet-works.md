@@ -14,6 +14,7 @@ Some servers are also internet service providers as aol.com. E.g. when sending a
 
 what is send throughout email is divided into small pieces called packets, when the email arrives at its finale destination the pieces are reassembled into one unit. 
 
+This theory files has been reviewed by Aurélien Saelens 
+
 EVERYTHING connected directly/indirectly to the internet has an IP-adress (computers, servers, cell-phones and all the in-between-equipment). 
-routers directs your packets into the internet, everytime you're sending go through a router and gets a particular layer making it possible to find it's way back to your computer once it has reached the website of Facebook, for example.
 
